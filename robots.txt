@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+Disallow: /api.php
+Sitemap: https://sowibasarl.com/sitemap.xml
